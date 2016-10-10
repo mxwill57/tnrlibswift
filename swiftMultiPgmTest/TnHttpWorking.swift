@@ -248,6 +248,8 @@ func
 	
 	urlRequest!.HTTPMethod = "POST"
 	
+	//	just adding a quick comment for test purposes
+	
 	//	sBody	=	"source=[my-src]&version=1.0&userid=[my-acct]&password=[my-pwd]
 	sBody	=	"internal https test"
 	
